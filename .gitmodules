@@ -1,0 +1,3 @@
+[submodule "src/Projection.jl"]
+	path = src/Projection.jl
+	url = https://github.com/KThompson0308/Projection.jl.git
