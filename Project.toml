@@ -19,6 +19,7 @@ StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
 WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
 
 [compat]
+SimpleTraits = "0.9"
 julia = "1"
 
 [extras]
